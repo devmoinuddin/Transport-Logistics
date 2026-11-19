@@ -1,0 +1,620 @@
+@font-face {
+font-family: 'Flaticon-Set-Logistics';
+src:  url('fonts/flaticon-set-logistics1afc.eot?o66uyv');
+src:  url('fonts/flaticon-set-logistics1afc.eot?o66uyv#iefix') format('embedded-opentype'),
+    url('fonts/flaticon-set-logistics1afc.ttf?o66uyv') format('truetype'),
+    url('fonts/flaticon-set-logistics1afc.woff?o66uyv') format('woff'),
+    url('fonts/flaticon-set-logistics1afc.svg?o66uyv#Flaticon-Set-Logistics') format('svg');
+}
+
+[class^="flaticon-lozics-"], [class*=" flaticon-lozics-"] {
+/* use !important to prevent issues with browser extensions that change fonts */
+font-family: 'Flaticon-Set-Logistics' !important;
+font-style: normal;
+font-weight: normal !important;
+font-variant: normal;
+text-transform: none;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-lozics-logistics:before {
+    content: "\f101";
+}
+.flaticon-lozics-cargo:before {
+    content: "\f102";
+}
+.flaticon-lozics-logistics-1:before {
+    content: "\f103";
+}
+.flaticon-lozics-logistics-2:before {
+    content: "\f104";
+}
+.flaticon-lozics-boxes:before {
+    content: "\f105";
+}
+.flaticon-lozics-import:before {
+    content: "\f106";
+}
+.flaticon-lozics-cargo-ship:before {
+    content: "\f107";
+}
+.flaticon-lozics-logistics-3:before {
+    content: "\f108";
+}
+.flaticon-lozics-logistics-4:before {
+    content: "\f109";
+}
+.flaticon-lozics-delivery:before {
+    content: "\f10a";
+}
+.flaticon-lozics-logistic:before {
+    content: "\f10b";
+}
+.flaticon-lozics-port:before {
+    content: "\f10c";
+}
+.flaticon-lozics-cargo-1:before {
+    content: "\f10d";
+}
+.flaticon-lozics-shipment:before {
+    content: "\f10e";
+}
+.flaticon-lozics-delivery-man:before {
+    content: "\f10f";
+}
+.flaticon-lozics-supply-chain:before {
+    content: "\f110";
+}
+.flaticon-lozics-container:before {
+    content: "\f111";
+}
+.flaticon-lozics-delivery-man-1:before {
+    content: "\f112";
+}
+.flaticon-lozics-box:before {
+    content: "\f113";
+}
+.flaticon-lozics-logistics-5:before {
+    content: "\f114";
+}
+.flaticon-lozics-team:before {
+    content: "\f115";
+}
+.flaticon-lozics-3d-cube:before {
+    content: "\f116";
+}
+.flaticon-lozics-global:before {
+    content: "\f117";
+}
+.flaticon-lozics-customer-service:before {
+    content: "\f118";
+}
+.flaticon-lozics-cargo-boat:before {
+    content: "\f119";
+}
+.flaticon-lozics-logistics-6:before {
+    content: "\f11a";
+}
+.flaticon-lozics-airplane:before {
+    content: "\f11b";
+}
+.flaticon-lozics-parcel:before {
+    content: "\f11c";
+}
+.flaticon-lozics-order:before {
+    content: "\f11d";
+}
+.flaticon-lozics-truck:before {
+    content: "\f11e";
+}
+.flaticon-lozics-container-1:before {
+    content: "\f11f";
+}
+.flaticon-lozics-global-1:before {
+    content: "\f120";
+}
+.flaticon-lozics-global-2:before {
+    content: "\f121";
+}
+.flaticon-lozics-worldwide-shipping:before {
+    content: "\f122";
+}
+.flaticon-lozics-fast-delivery:before {
+    content: "\f123";
+}
+.flaticon-lozics-worldwide-shipping-1:before {
+    content: "\f124";
+}
+.flaticon-lozics-shipment-1:before {
+    content: "\f125";
+}
+.flaticon-lozics-cart:before {
+    content: "\f126";
+}
+.flaticon-lozics-global-shipping:before {
+    content: "\f127";
+}
+.flaticon-lozics-delivery-man-2:before {
+    content: "\f128";
+}
+.flaticon-lozics-cargo-ship-1:before {
+    content: "\f129";
+}
+.flaticon-lozics-forklift:before {
+    content: "\f12a";
+}
+.flaticon-lozics-forklift-1:before {
+    content: "\f12b";
+}
+.flaticon-lozics-delivery-courier:before {
+    content: "\f12c";
+}
+.flaticon-lozics-shipping:before {
+    content: "\f12d";
+}
+.flaticon-lozics-airplane-1:before {
+    content: "\f12e";
+}
+.flaticon-lozics-stock:before {
+    content: "\f12f";
+}
+.flaticon-lozics-air-freight:before {
+    content: "\f130";
+}
+.flaticon-lozics-maintenance:before {
+    content: "\f131";
+}
+.flaticon-lozics-air:before {
+    content: "\f132";
+}
+.flaticon-lozics-logistics-delivery:before {
+    content: "\f133";
+}
+.flaticon-lozics-logistics-delivery-1:before {
+    content: "\f134";
+}
+.flaticon-lozics-clipboard:before {
+    content: "\f135";
+}
+.flaticon-lozics-logistics-delivery-2:before {
+    content: "\f136";
+}
+.flaticon-lozics-logistics-delivery-3:before {
+    content: "\f137";
+}
+.flaticon-lozics-box-1:before {
+    content: "\f138";
+}
+.flaticon-lozics-truck-1:before {
+    content: "\f139";
+}
+.flaticon-lozics-order-1:before {
+    content: "\f13a";
+}
+.flaticon-lozics-search:before {
+    content: "\f13b";
+}
+.flaticon-lozics-delivery-truck:before {
+    content: "\f13c";
+}
+.flaticon-lozics-international-shipping:before {
+    content: "\f13d";
+}
+.flaticon-lozics-24-hours:before {
+    content: "\f13e";
+}
+.flaticon-lozics-logistics-delivery-4:before {
+    content: "\f13f";
+}
+.flaticon-lozics-home-delivery:before {
+    content: "\f140";
+}
+.flaticon-lozics-forklift-2:before {
+    content: "\f141";
+}
+.flaticon-lozics-call-center:before {
+    content: "\f142";
+}
+.flaticon-lozics-crane:before {
+    content: "\f143";
+}
+.flaticon-lozics-headset:before {
+    content: "\f144";
+}
+.flaticon-lozics-shipment-2:before {
+    content: "\f145";
+}
+.flaticon-lozics-clipboard-1:before {
+    content: "\f146";
+}
+.flaticon-lozics-production:before {
+    content: "\f147";
+}
+.flaticon-lozics-export:before {
+    content: "\f148";
+}
+.flaticon-lozics-shopping-bag:before {
+    content: "\f149";
+}
+.flaticon-lozics-qr-code:before {
+    content: "\f14a";
+}
+.flaticon-lozics-air-plane:before {
+    content: "\f14b";
+}
+.flaticon-lozics-cash-on-delivery:before {
+    content: "\f14c";
+}
+.flaticon-lozics-import-1:before {
+    content: "\f14d";
+}
+.flaticon-lozics-24-hours-1:before {
+    content: "\f14e";
+}
+.flaticon-lozics-international-shipping-1:before {
+    content: "\f14f";
+}
+.flaticon-lozics-received:before {
+    content: "\f150";
+}
+.flaticon-lozics-export-1:before {
+    content: "\f151";
+}
+.flaticon-lozics-truck-2:before {
+    content: "\f152";
+}
+.flaticon-lozics-increase:before {
+    content: "\f153";
+}
+.flaticon-lozics-global-shipping-1:before {
+    content: "\f154";
+}
+.flaticon-lozics-crane-1:before {
+    content: "\f155";
+}
+.flaticon-lozics-shield:before {
+    content: "\f156";
+}
+.flaticon-lozics-container-2:before {
+    content: "\f157";
+}
+.flaticon-lozics-delivery-truck-1:before {
+    content: "\f158";
+}
+.flaticon-lozics-fast-delivery-1:before {
+    content: "\f159";
+}
+.flaticon-lozics-shipping-1:before {
+    content: "\f15a";
+}
+.flaticon-lozics-cash-on-delivery-1:before {
+    content: "\f15b";
+}
+.flaticon-lozics-delivery-1:before {
+    content: "\f15c";
+}
+.flaticon-lozics-trolley:before {
+    content: "\f15d";
+}
+.flaticon-lozics-packaging:before {
+    content: "\f15e";
+}
+.flaticon-lozics-setting:before {
+    content: "\f15f";
+}
+.flaticon-lozics-trolley-1:before {
+    content: "\f160";
+}
+.flaticon-lozics-settings:before {
+    content: "\f161";
+}
+.flaticon-lozics-delivery-2:before {
+    content: "\f162";
+}
+.flaticon-lozics-computer-monitor:before {
+    content: "\f163";
+}
+.flaticon-lozics-delivery-truck-2:before {
+    content: "\f164";
+}
+.flaticon-lozics-courier:before {
+    content: "\f165";
+}
+.flaticon-lozics-24-hours-delivery:before {
+    content: "\f166";
+}
+.flaticon-lozics-location-pin:before {
+    content: "\f167";
+}
+.flaticon-lozics-cash:before {
+    content: "\f168";
+}
+.flaticon-lozics-delivery-box:before {
+    content: "\f169";
+}
+.flaticon-lozics-delivery-bike:before {
+    content: "\f16a";
+}
+.flaticon-lozics-partnership:before {
+    content: "\f16b";
+}
+.flaticon-lozics-schedule:before {
+    content: "\f16c";
+}
+.flaticon-lozics-lock:before {
+    content: "\f16d";
+}
+.flaticon-lozics-delivery-box-1:before {
+    content: "\f16e";
+}
+.flaticon-lozics-open-box:before {
+    content: "\f16f";
+}
+.flaticon-lozics-product:before {
+    content: "\f170";
+}
+.flaticon-lozics-packages:before {
+    content: "\f171";
+}
+.flaticon-lozics-delivery-insurance:before {
+    content: "\f172";
+}
+.flaticon-lozics-weight:before {
+    content: "\f173";
+}
+.flaticon-lozics-global-3:before {
+    content: "\f174";
+}
+.flaticon-lozics-distribution-center:before {
+    content: "\f175";
+}
+.flaticon-lozics-weight-1:before {
+    content: "\f176";
+}
+.flaticon-lozics-trolley-2:before {
+    content: "\f177";
+}
+.flaticon-lozics-warehouse:before {
+    content: "\f178";
+}
+.flaticon-lozics-forklift-3:before {
+    content: "\f179";
+}
+.flaticon-lozics-shipping-2:before {
+    content: "\f17a";
+}
+.flaticon-lozics-delivery-service:before {
+    content: "\f17b";
+}
+.flaticon-lozics-24-hours-2:before {
+    content: "\f17c";
+}
+.flaticon-lozics-conveyor:before {
+    content: "\f17d";
+}
+.flaticon-lozics-24-hours-3:before {
+    content: "\f17e";
+}
+.flaticon-lozics-clipboard-2:before {
+    content: "\f17f";
+}
+.flaticon-lozics-airplane-2:before {
+    content: "\f180";
+}
+.flaticon-lozics-delivery-box-2:before {
+    content: "\f181";
+}
+.flaticon-lozics-checklist:before {
+    content: "\f182";
+}
+.flaticon-lozics-crane-2:before {
+    content: "\f183";
+}
+.flaticon-lozics-global-distribution:before {
+    content: "\f184";
+}
+.flaticon-lozics-delivery-3:before {
+    content: "\f185";
+}
+.flaticon-lozics-package:before {
+    content: "\f186";
+}
+.flaticon-lozics-weight-scale:before {
+    content: "\f187";
+}
+.flaticon-lozics-delivery-insurance-1:before {
+    content: "\f188";
+}
+.flaticon-lozics-train:before {
+    content: "\f189";
+}
+.flaticon-lozics-cargo-2:before {
+    content: "\f18a";
+}
+.flaticon-lozics-delivery-4:before {
+    content: "\f18b";
+}
+.flaticon-lozics-delivery-insurance-2:before {
+    content: "\f18c";
+}
+.flaticon-lozics-calendar:before {
+    content: "\f18d";
+}
+.flaticon-lozics-wrench:before {
+    content: "\f18e";
+}
+.flaticon-lozics-call-box:before {
+    content: "\f18f";
+}
+.flaticon-lozics-ship:before {
+    content: "\f190";
+}
+.flaticon-lozics-delivery-time:before {
+    content: "\f191";
+}
+.flaticon-lozics-trolley-3:before {
+    content: "\f192";
+}
+.flaticon-lozics-delivery-truck-3:before {
+    content: "\f193";
+}
+.flaticon-lozics-weight-2:before {
+    content: "\f194";
+}
+.flaticon-lozics-global-distribution-1:before {
+    content: "\f195";
+}
+.flaticon-lozics-tracking:before {
+    content: "\f196";
+}
+.flaticon-lozics-shipping-3:before {
+    content: "\f197";
+}
+.flaticon-lozics-delivery-5:before {
+    content: "\f198";
+}
+.flaticon-lozics-international-shipping-2:before {
+    content: "\f199";
+}
+.flaticon-lozics-delivery-cart:before {
+    content: "\f19a";
+}
+.flaticon-lozics-stock-1:before {
+    content: "\f19b";
+}
+.flaticon-lozics-delivery-service-1:before {
+    content: "\f19c";
+}
+.flaticon-lozics-distribution:before {
+    content: "\f19d";
+}
+.flaticon-lozics-scanner:before {
+    content: "\f19e";
+}
+.flaticon-lozics-delivery-box-3:before {
+    content: "\f19f";
+}
+.flaticon-lozics-settings-1:before {
+    content: "\f1a0";
+}
+.flaticon-lozics-vaccine:before {
+    content: "\f1a1";
+}
+.flaticon-lozics-worldwide-shipping-2:before {
+    content: "\f1a2";
+}
+.flaticon-lozics-delivery-insurance-3:before {
+    content: "\f1a3";
+}
+.flaticon-lozics-global-distribution-2:before {
+    content: "\f1a4";
+}
+.flaticon-lozics-delivery-box-4:before {
+    content: "\f1a5";
+}
+.flaticon-lozics-delivery-box-5:before {
+    content: "\f1a6";
+}
+.flaticon-lozics-air-mail:before {
+    content: "\f1a7";
+}
+.flaticon-lozics-recycle:before {
+    content: "\f1a8";
+}
+.flaticon-lozics-manufacturing:before {
+    content: "\f1a9";
+}
+.flaticon-lozics-smartphone:before {
+    content: "\f1aa";
+}
+.flaticon-lozics-import-2:before {
+    content: "\f1ab";
+}
+.flaticon-lozics-earth:before {
+    content: "\f1ac";
+}
+.flaticon-lozics-scooter:before {
+    content: "\f1ad";
+}
+.flaticon-lozics-delivery-6:before {
+    content: "\f1ae";
+}
+.flaticon-lozics-logistics-delivery-5:before {
+    content: "\f1af";
+}
+.flaticon-lozics-logistics-delivery-6:before {
+    content: "\f1b0";
+}
+.flaticon-lozics-transportation:before {
+    content: "\f1b1";
+}
+.flaticon-lozics-van:before {
+    content: "\f1b2";
+}
+.flaticon-lozics-supply-chain-management:before {
+    content: "\f1b3";
+}
+.flaticon-lozics-delivery-truck-4:before {
+    content: "\f1b4";
+}
+.flaticon-lozics-courier-1:before {
+    content: "\f1b5";
+}
+.flaticon-lozics-delivery-7:before {
+    content: "\f1b6";
+}
+.flaticon-lozics-logistics-7:before {
+    content: "\f1b7";
+}
+.flaticon-lozics-on-time:before {
+    content: "\f1b8";
+}
+.flaticon-lozics-distribution-center-1:before {
+    content: "\f1b9";
+}
+.flaticon-lozics-location:before {
+    content: "\f1ba";
+}
+.flaticon-lozics-air-freight-1:before {
+    content: "\f1bb";
+}
+.flaticon-lozics-logistics-8:before {
+    content: "\f1bc";
+}
+.flaticon-lozics-delivery-man-3:before {
+    content: "\f1bd";
+}
+.flaticon-lozics-logistics-delivery-7:before {
+    content: "\f1be";
+}
+.flaticon-lozics-international:before {
+    content: "\f1bf";
+}
+.flaticon-lozics-international-shipping-3:before {
+    content: "\f1c0";
+}
+.flaticon-lozics-distribution-1:before {
+    content: "\f1c1";
+}
+.flaticon-lozics-distribution-center-2:before {
+    content: "\f1c2";
+}
+.flaticon-lozics-container-3:before {
+    content: "\f1c3";
+}
+.flaticon-lozics-logistics-9:before {
+    content: "\f1c4";
+}
+.flaticon-lozics-delivery-8:before {
+    content: "\f1c5";
+}
+.flaticon-lozics-flow:before {
+    content: "\f1c6";
+}
+.flaticon-lozics-manufacture:before {
+    content: "\f1c7";
+}
+.flaticon-lozics-maps:before {
+    content: "\f1c8";
+}
